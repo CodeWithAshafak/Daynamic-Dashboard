@@ -1,0 +1,184 @@
+{
+  "user": [
+    {
+      "id": "b440",
+      "name": "Ashafak Astanwale",
+      "email": "ashafak04@gmail.com",
+      "image": "https://i.pinimg.com/736x/41/52/92/41529228b0927700222790258464e89a.jpg",
+      "mob": "8698468448",
+      "password": "Ashafak04@123",
+      "cpassword": "Ashafak04@123"
+    },
+    {
+      "id": "42fb",
+      "name": "Hina Khan",
+      "email": "hina@gmail.com",
+      "image": "https://i.pinimg.com/736x/41/52/92/41529228b0927700222790258464e89a.jpg",
+      "mob": "7845129632",
+      "password": "Ashafak04@123",
+      "cpassword": "Ashafak04@123"
+    },
+    {
+      "id": "966b",
+      "name": "Hania Amir",
+      "email": "hania@gmail.com",
+      "image": "https://png.pngtree.com/thumb_back/fh260/background/20230527/pngtree-boy-wearing-sunglasses-behind-a-dark-background-image_2675368.jpg",
+      "mob": "8698468448",
+      "password": "Hani@123",
+      "cpassword": "Hani@123"
+    },
+    {
+      "id": "a9bd",
+      "name": "Ruhi",
+      "email": "ruhi@gmail.com",
+      "image": "https://i.pinimg.com/736x/41/52/92/41529228b0927700222790258464e89a.jpg",
+      "mob": "7418529631",
+      "password": "Ruhi@123",
+      "cpassword": "Ruhi@123"
+    },
+    {
+      "id": "6808",
+      "name": "Avin Shaikh",
+      "email": "avin@gmail.com",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToMAuXgrE9nI6rms4yhFT33gqNi8bLqMv3Ng&s",
+      "mob": "7894561230",
+      "password": "Avin@123",
+      "cpassword": "Avin@123"
+    },
+    {
+      "id": "43e6",
+      "name": "Aisha khan",
+      "email": "aisha@gmail.com",
+      "image": "https://asset.gecdesigns.com/img/wallpapers/beautiful-muslim-woman-with-hijab-wallpaper-sr27062407-cover.webp",
+      "mob": "8698468448",
+      "password": "Ashafak04@123",
+      "cpassword": "Ashafak04@123"
+    },
+    {
+      "id": "4840",
+      "name": "Aisha khan",
+      "email": "aisha@gmail.com",
+      "image": "https://i.pinimg.com/736x/41/52/92/41529228b0927700222790258464e89a.jpg",
+      "mob": "7894561230",
+      "password": "Ashafak04@123",
+      "cpassword": "Ashafak04@123"
+    },
+    {
+      "id": "d568",
+      "name": "Ramiz Mirza",
+      "email": "ramiz@gmail.com",
+      "image": "https://i.pinimg.com/736x/41/52/92/41529228b0927700222790258464e89a.jpg",
+      "mob": "7412589630",
+      "password": "Ramiz@123",
+      "cpassword": "Ramiz@123"
+    },
+    {
+      "id": "b241",
+      "name": "Rani Deshmukh",
+      "email": "ashafak04@gmail.com",
+      "image": "https://asset.gecdesigns.com/img/wallpapers/beautiful-muslim-woman-with-hijab-wallpaper-sr27062407-cover.webp",
+      "mob": "1234567890",
+      "password": "Ashafak@123",
+      "cpassword": "Ashafak@123"
+    },
+    {
+      "id": "4cf9",
+      "name": "Ashafak Astanwale",
+      "email": "ashafak04@gmail.com",
+      "image": "https://image.tensorartassets.com/cdn-cgi/image/anim=true,plain=false,w=2048,f=jpeg,q=85/posts/images/684058496613784590/a7a64855-8400-4d0b-9856-0a623694deb4.jpg",
+      "mob": "8698468448",
+      "password": "Ashafak04@123",
+      "cpassword": "Ashafak04@123"
+    },
+    {
+      "id": "1d6c",
+      "name": "Ramesh",
+      "email": "ashafak04@gmail.com",
+      "image": "https://i.pinimg.com/736x/41/52/92/41529228b0927700222790258464e89a.jpg",
+      "mob": "8698468448",
+      "password": "A@123a",
+      "cpassword": "A@123a"
+    }
+  ],
+  "CustInfo": [
+    {
+      "guestName": "Avi",
+      "mob": "8698468448",
+      "date": "2024-10-05T14:09",
+      "roomType": "DELUX",
+      "status": "Confirmed",
+      "id": "23dc"
+    },
+    {
+      "id": "5d61",
+      "guestName": "Abin",
+      "date": "2024-10-04T15:08",
+      "mob": "8698468448",
+      "roomType": "DELUX"
+    },
+    {
+      "id": "c190",
+      "guestName": "avin ",
+      "date": "2024-10-24T19:02",
+      "mob": "7894561230",
+      "roomType": "DELUX",
+      "status": "CONFIMED"
+    },
+    {
+      "id": "1a5f",
+      "guestName": "RAHIM KHAN",
+      "date": "2024-10-24T19:11",
+      "mob": "7845129632",
+      "roomType": "Classic",
+      "status": "not  confimed"
+    },
+    {
+      "id": "79b5",
+      "guestName": "sohel sayeed",
+      "date": "2024-10-24T22:21",
+      "mob": "7894561230",
+      "roomType": "Delux prime",
+      "status": "not  confimed"
+    },
+    {
+      "id": "d90c",
+      "guestName": "Mahatma Gandhi",
+      "date": "2024-10-24T23:29",
+      "mob": "7845129632",
+      "roomType": "Delux prime",
+      "status": "CONFIMED"
+    },
+    {
+      "id": "8655",
+      "guestName": "Shafak",
+      "date": "2024-10-25T10:54",
+      "mob": "123456",
+      "roomType": "premium",
+      "status": "Confirmed"
+    },
+    {
+      "id": "91e1",
+      "guestName": "Ramesh Jadhav",
+      "date": "2024-10-25T14:18",
+      "mob": "7845129632",
+      "roomType": "Classic",
+      "status": "not  confimed"
+    },
+    {
+      "id": "8540",
+      "guestName": "Ramedh patil",
+      "date": "2024-10-25T18:56",
+      "mob": "8698468448",
+      "roomType": "premium",
+      "status": "Confirmed"
+    },
+    {
+      "id": "dfbc",
+      "guestName": "",
+      "date": "",
+      "mob": "",
+      "roomType": "",
+      "status": ""
+    }
+  ]
+}
